@@ -1,0 +1,6 @@
+{
+  "name": "PyRecall - Python Active Study & Code Quizzing Engine",
+  "description": "Interactive active-recall Python study web app with fill-in-the-blank code quizzes, strict exact-match checking, step-by-step mechanical explanations, and persistent mastery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
